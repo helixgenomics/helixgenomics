@@ -1,16 +1,46 @@
-## Hi there 👋
+# HELIXGENOMICS LTD
 
-<!--
-**helixgenomics/helixgenomics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Official website repository for **HELIXGENOMICS LTD**.
 
-Here are some ideas to get you started:
+🌐 **Website:** https://www.helixgenomics.uk
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About
+
+HELIXGENOMICS LTD is a UK-based bioinformatics consultancy providing expertise in genomics, transcriptomics, epigenomics, machine learning, and reproducible computational workflows.
+
+We support universities, research institutes, healthcare organisations, biotechnology companies, and researchers by delivering high-quality bioinformatics analysis, scientific training, and data-driven solutions.
+
+---
+
+## Our Services
+
+- Genome analysis
+- Comparative genomics
+- Transcriptomics (RNA-seq & scRNA-seq)
+- Epigenomics (ATAC-seq, ChIP-seq & DNA methylation)
+- Machine learning for biological data
+- Nextflow workflow development
+- Bioinformatics consultancy
+- Scientific training and capacity building
+
+---
+
+## About this Repository
+
+This repository contains the source code for the official HELIXGENOMICS LTD website.
+
+---
+
+## Contact
+
+📧 **Email:** helixgenomicsinfo@gmail.com
+
+🌍 **Website:** https://www.helixgenomics.uk
+
+---
+
+## License
+
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0).
