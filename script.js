@@ -1,5 +1,5 @@
 const revealItems = document.querySelectorAll(
-  '.hero-copy, .hero-card, .card, .panel, .contact-box'
+  '.hero-copy, .hero-side, .card, .panel, .contact-box'
 );
 
 const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
